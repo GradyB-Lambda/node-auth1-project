@@ -28,7 +28,7 @@ Complete the following endpoints:
 
 Add support for **sessions** and **cookies**, use them to keep a record of logged in users across requests.
 
-### Task 3: Stretch Goals
+### Task 3: Stretch
 
 - Write a piece of **global** middleware that ensures a user is logged in when accessing _any_ route prefixed by `/api/users`.
 - Build a React application that implements components to register, login and view a list of users. Gotta keep sharpening your React skills.
@@ -37,5 +37,4 @@ Add support for **sessions** and **cookies**, use them to keep a record of logge
 
 Follow these steps for completing your project.
 
-- [ ] Submit a pull request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
-
+- [ ] Submit a pull request to merge <firstName-lastName> Branch into master (student's Repo). **Please don't merge your own pull request**
